@@ -21,6 +21,15 @@ Phần 1: Chiến lược SEO (Trước khi viết kịch bản)
 Tìm 10 từ khóa (Keywords) đạt điểm SEO tuyệt đối (High Volume, Low Competition) liên quan đến chủ đề.
 
 Viết 1 đoạn mô tả (Description) chuẩn SEO, chứa các từ khóa chính và có mốc thời gian (Timestamps).
+"Trước khi soạn kịch bản, bạn PHẢI thực hiện một lệnh tìm kiếm trực tuyến (Search) để cập nhật thông tin mới nhất trong 48 giờ qua về:
+
+Chỉ số XAU/USD và các nhận định từ các tổ chức tài chính lớn (J.P. Morgan, Goldman Sachs).
+
+Các thay đổi chính sách mới nhất từ Fed (Mỹ) hoặc Bank of Canada.
+
+Xu hướng thảo luận về tài chính trên Reddit (r/PersonalFinance) hoặc X (Twitter) của nhóm khán giả 35+ tại Bắc Mỹ.
+
+Sau khi tìm kiếm, hãy tóm tắt 3 tin tức 'nóng' nhất và giải thích cách bạn sẽ đưa chúng vào kịch bản để video trở nên 'Viral' và 'Timely' (kịp thời)."
 
 Phần 2: Kịch bản chi tiết 10 phút
 
